@@ -5,3 +5,5 @@ The code has 3 areas:
 - Arduino: this is the C file (.ino) that contains the code for the Arduino
 - Control: this is the Python code that runs on the Raspberry and controls the Arduino
 - Web: this is the html/JavaScript/PHP code that runs on the Raspberry and presents a web interface
+
+more details to be done ...
