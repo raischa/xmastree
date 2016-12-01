@@ -1,0 +1,668 @@
+2016-11-20 11:14:08,646 found loader.pid
+2016-11-20 11:14:08,668 loader is not running
+2016-11-20 11:14:08,687 Opening playlist.dat
+2016-11-20 11:14:08,691 got Reset
+2016-11-20 11:14:09,697 done Reset
+2016-11-20 11:14:11,707 got a new line with LED colors
+2016-11-20 11:14:11,710 got In-Out
+2016-11-20 11:14:11,714 Sent In Out to Arduino 1
+2016-11-20 11:14:11,718 Sent In Out to Arduino 2
+2016-11-20 11:14:11,727 Sent In Out to Arduino 3
+2016-11-20 11:14:11,732 Sent In Out to Arduino 4
+2016-11-20 11:14:11,737 Sent In Out to Arduino 5
+2016-11-20 11:14:11,744 Sent In Out to Arduino 6
+2016-11-20 11:14:11,748 Sent In Out to Arduino 7
+2016-11-20 11:14:11,754 Sent In Out to Arduino 8
+2016-11-20 11:14:11,761 Sent In Out to Arduino 9
+2016-11-20 11:14:11,765 Sent In Out to Arduino 10
+2016-11-20 11:14:12,770 Command 17 to 1 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:14:12,773 Command 17 to 2 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:14:12,780 Command 17 to 3 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:14:12,783 Command 17 to 4 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:14:12,790 Command 17 to 5 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:14:12,792 Command 17 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:14:12,797 Command 17 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:14:12,801 Command 17 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:14:12,807 Command 17 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:14:12,811 Command 17 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:17:34,631 found loader.pid
+2016-11-20 11:17:34,658 loader is not running
+2016-11-20 11:17:34,675 Opening playlist.dat
+2016-11-20 11:17:34,681 got Reset
+2016-11-20 11:17:35,687 done Reset
+2016-11-20 11:17:37,692 got a new line with LED colors
+2016-11-20 11:17:37,694 got In-Out
+2016-11-20 11:17:37,700 Sent In Out to Arduino 1
+2016-11-20 11:17:37,704 Sent In Out to Arduino 2
+2016-11-20 11:17:37,713 Sent In Out to Arduino 3
+2016-11-20 11:17:37,718 Sent In Out to Arduino 4
+2016-11-20 11:17:37,724 Sent In Out to Arduino 5
+2016-11-20 11:17:37,729 Sent In Out to Arduino 6
+2016-11-20 11:17:37,735 Sent In Out to Arduino 7
+2016-11-20 11:17:37,740 Sent In Out to Arduino 8
+2016-11-20 11:17:37,747 Sent In Out to Arduino 9
+2016-11-20 11:17:37,751 Sent In Out to Arduino 10
+2016-11-20 11:17:38,757 Command 17 to 1 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:17:38,760 Command 17 to 2 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:17:38,764 Command 17 to 3 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:17:38,767 Command 17 to 4 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:17:38,770 Command 17 to 5 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:17:38,778 Command 17 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:17:38,782 Command 17 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:17:38,788 Command 17 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:17:38,792 Command 17 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:17:38,796 Command 17 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:00,730 found loader.pid
+2016-11-20 11:26:00,756 loader is not running anymore
+2016-11-20 11:26:00,775 Opening playlist.dat
+2016-11-20 11:26:00,780 got Reset
+2016-11-20 11:26:01,786 done Reset
+2016-11-20 11:26:03,792 got a new line with LED colors
+2016-11-20 11:26:03,794 got In-Out
+2016-11-20 11:26:03,797 ERROR In Out of Arduino 1
+2016-11-20 11:26:03,800 ERROR In Out of Arduino 2
+2016-11-20 11:26:03,804 ERROR In Out of Arduino 3
+2016-11-20 11:26:03,811 ERROR In Out of Arduino 4
+2016-11-20 11:26:03,816 ERROR In Out of Arduino 5
+2016-11-20 11:26:03,822 ERROR In Out of Arduino 6
+2016-11-20 11:26:03,826 ERROR In Out of Arduino 7
+2016-11-20 11:26:03,831 ERROR In Out of Arduino 8
+2016-11-20 11:26:03,837 ERROR In Out of Arduino 9
+2016-11-20 11:26:03,842 ERROR In Out of Arduino 10
+2016-11-20 11:26:04,849 Command 17 to 1 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:04,852 Command 17 to 2 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:04,855 Command 17 to 3 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:04,858 Command 17 to 4 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:04,861 Command 17 to 5 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:04,869 Command 17 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:04,874 Command 17 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:04,879 Command 17 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:04,883 Command 17 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:04,888 Command 17 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:05,892 got a new line with LED colors
+2016-11-20 11:26:05,894 got Set Color
+2016-11-20 11:26:05,899 Sent color to Arduino 1
+2016-11-20 11:26:05,913 Sent color to Arduino 2
+2016-11-20 11:26:05,920 Sent color to Arduino 3
+2016-11-20 11:26:05,926 Sent color to Arduino 4
+2016-11-20 11:26:05,932 Sent color to Arduino 5
+2016-11-20 11:26:05,938 Sent color to Arduino 6
+2016-11-20 11:26:05,943 Sent color to Arduino 7
+2016-11-20 11:26:05,948 Sent color to Arduino 8
+2016-11-20 11:26:05,957 Sent color to Arduino 9
+2016-11-20 11:26:05,961 Sent color to Arduino 10
+2016-11-20 11:26:05,967 Command 13 to 1 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:05,971 Command 13 to 2 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:05,978 Command 13 to 3 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:05,980 Command 13 to 4 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:05,990 Command 13 to 5 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:05,995 Command 13 to 6 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:05,998 Command 13 to 7 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:06,002 Command 13 to 8 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:06,007 Command 13 to 9 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:06,012 Command 13 to 10 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:26:07,016 got a new line with LED colors
+2016-11-20 11:26:07,018 got Random
+2016-11-20 11:26:07,027 Sent random to Arduino 1
+2016-11-20 11:26:07,031 Sent random to Arduino 2
+2016-11-20 11:26:07,039 Sent random to Arduino 3
+2016-11-20 11:26:07,043 Sent random to Arduino 4
+2016-11-20 11:26:07,049 Sent random to Arduino 5
+2016-11-20 11:26:07,054 Sent random to Arduino 6
+2016-11-20 11:26:07,060 Sent random to Arduino 7
+2016-11-20 11:26:07,066 Sent random to Arduino 8
+2016-11-20 11:26:07,072 Sent random to Arduino 9
+2016-11-20 11:26:07,078 Sent random to Arduino 10
+2016-11-20 11:29:41,092 found loader.pid
+2016-11-20 11:29:41,096 killing 4710
+2016-11-20 11:29:41,099 loader is not running anymore
+2016-11-20 11:29:41,103 I am pid: 4859
+2016-11-20 11:29:41,111 Opening playlist.dat
+2016-11-20 11:29:41,115 got Reset
+2016-11-20 11:29:42,121 done Reset
+2016-11-20 11:29:44,126 got a new line with LED colors
+2016-11-20 11:29:44,128 got In-Out
+2016-11-20 11:29:44,132 Sent In Out to Arduino 1
+2016-11-20 11:29:44,136 Sent In Out to Arduino 2
+2016-11-20 11:29:44,140 Sent In Out to Arduino 3
+2016-11-20 11:29:44,150 Sent In Out to Arduino 4
+2016-11-20 11:29:44,156 Sent In Out to Arduino 5
+2016-11-20 11:29:44,162 Sent In Out to Arduino 6
+2016-11-20 11:29:44,166 Sent In Out to Arduino 7
+2016-11-20 11:29:44,174 Sent In Out to Arduino 8
+2016-11-20 11:29:44,177 Sent In Out to Arduino 9
+2016-11-20 11:29:44,183 Sent In Out to Arduino 10
+2016-11-20 11:29:45,189 Command 17 to 1 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:45,192 Command 17 to 2 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:45,195 Command 17 to 3 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:45,198 Command 17 to 4 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:45,201 Command 17 to 5 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:45,210 Command 17 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:45,214 Command 17 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:45,218 Command 17 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:45,223 Command 17 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:45,228 Command 17 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:46,233 got a new line with LED colors
+2016-11-20 11:29:46,235 got Set Color
+2016-11-20 11:29:46,240 Sent color to Arduino 1
+2016-11-20 11:29:46,244 Sent color to Arduino 2
+2016-11-20 11:29:46,248 Sent color to Arduino 3
+2016-11-20 11:29:46,258 Sent color to Arduino 4
+2016-11-20 11:29:46,263 Sent color to Arduino 5
+2016-11-20 11:29:46,268 Sent color to Arduino 6
+2016-11-20 11:29:46,274 Sent color to Arduino 7
+2016-11-20 11:29:46,279 Sent color to Arduino 8
+2016-11-20 11:29:46,285 Sent color to Arduino 9
+2016-11-20 11:29:46,290 Sent color to Arduino 10
+2016-11-20 11:29:46,294 Command 13 to 1 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:46,299 Command 13 to 2 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:46,303 Command 13 to 3 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:46,307 Command 13 to 4 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:46,312 Command 13 to 5 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:46,317 Command 13 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:46,323 Command 13 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:46,326 Command 13 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:46,331 Command 13 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:46,339 Command 13 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:29:47,342 got a new line with LED colors
+2016-11-20 11:29:47,345 got Random
+2016-11-20 11:29:47,349 Sent random to Arduino 1
+2016-11-20 11:29:47,355 Sent random to Arduino 2
+2016-11-20 11:29:47,363 Sent random to Arduino 3
+2016-11-20 11:29:47,369 Sent random to Arduino 4
+2016-11-20 11:29:47,373 Sent random to Arduino 5
+2016-11-20 11:29:47,378 Sent random to Arduino 6
+2016-11-20 11:29:47,390 Sent random to Arduino 7
+2016-11-20 11:29:47,396 Sent random to Arduino 8
+2016-11-20 11:29:47,401 Sent random to Arduino 9
+2016-11-20 11:29:47,406 Sent random to Arduino 10
+2016-11-20 11:30:35,928 found loader.pid
+2016-11-20 11:30:35,932 killing 4859
+2016-11-20 11:30:35,934 loader pid 4859 is not running anymore
+2016-11-20 11:30:35,945 I am pid: 4923
+2016-11-20 11:30:35,948 Opening playlist.dat
+2016-11-20 11:30:35,953 got Reset
+2016-11-20 11:30:36,959 done Reset
+2016-11-20 11:31:35,572 found loader.pid
+2016-11-20 11:31:35,576 killing loader pid: 4923
+2016-11-20 11:31:35,579 loader pid: 4923 is not running anymore
+2016-11-20 11:31:35,583 New loader pid: 4941
+2016-11-20 11:31:35,591 Opening playlist.dat
+2016-11-20 11:31:35,596 got Reset
+2016-11-20 11:31:36,600 done Reset
+2016-11-20 11:31:39,557 got a new line with LED colors
+2016-11-20 11:31:39,559 got In-Out
+2016-11-20 11:31:39,564 Sent In Out to Arduino 1
+2016-11-20 11:31:39,568 Sent In Out to Arduino 2
+2016-11-20 11:31:39,577 Sent In Out to Arduino 3
+2016-11-20 11:31:39,582 Sent In Out to Arduino 4
+2016-11-20 11:31:39,587 Sent In Out to Arduino 5
+2016-11-20 11:31:39,593 Sent In Out to Arduino 6
+2016-11-20 11:31:39,599 Sent In Out to Arduino 7
+2016-11-20 11:31:39,604 Sent In Out to Arduino 8
+2016-11-20 11:31:39,610 Sent In Out to Arduino 9
+2016-11-20 11:31:39,616 Sent In Out to Arduino 10
+2016-11-20 11:31:40,621 Command 17 to 1 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:31:40,624 Command 17 to 2 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:31:40,630 Command 17 to 3 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:31:40,633 Command 17 to 4 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:31:40,639 Command 17 to 5 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:31:40,642 Command 17 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:31:40,646 Command 17 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:31:40,651 Command 17 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:31:40,656 Command 17 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:31:40,661 Command 17 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:32:44,039 found loader.pid file
+2016-11-20 11:32:44,043 going to kill loader pid: 4941
+2016-11-20 11:32:44,046 loader pid: 4941 is not running anymore
+2016-11-20 11:32:44,049 new loader pid: 4953
+2016-11-20 11:32:44,057 Opening playlist.dat
+2016-11-20 11:32:44,061 got Reset
+2016-11-20 11:32:45,067 done Reset
+2016-11-20 11:32:47,076 got a new line with LED colors
+2016-11-20 11:32:47,079 got In-Out
+2016-11-20 11:32:47,083 Sent In Out to Arduino 1
+2016-11-20 11:32:47,087 Sent In Out to Arduino 2
+2016-11-20 11:32:47,095 Sent In Out to Arduino 3
+2016-11-20 11:32:47,100 Sent In Out to Arduino 4
+2016-11-20 11:32:47,106 Sent In Out to Arduino 5
+2016-11-20 11:32:47,113 Sent In Out to Arduino 6
+2016-11-20 11:32:47,117 Sent In Out to Arduino 7
+2016-11-20 11:32:47,123 Sent In Out to Arduino 8
+2016-11-20 11:32:47,128 Sent In Out to Arduino 9
+2016-11-20 11:32:47,133 Sent In Out to Arduino 10
+2016-11-20 11:33:51,659 found loader.pid file
+2016-11-20 11:33:51,663 going to kill loader pid: 4953
+2016-11-20 11:33:51,666 loader pid: 4953 is not running anymore
+2016-11-20 11:33:51,670 new loader pid: 5022
+2016-11-20 11:33:51,678 Opening playlist.dat
+2016-11-20 11:33:51,683 got Reset
+2016-11-20 11:33:52,689 done Reset
+2016-11-20 11:33:54,694 got a new line with LED colors
+2016-11-20 11:33:54,702 got In-Out
+2016-11-20 11:33:54,716 Sent In Out to Arduino 1
+2016-11-20 11:33:54,723 Sent In Out to Arduino 2
+2016-11-20 11:33:54,735 Sent In Out to Arduino 3
+2016-11-20 11:33:54,747 Sent In Out to Arduino 4
+2016-11-20 11:33:54,755 Sent In Out to Arduino 5
+2016-11-20 11:33:54,761 Sent In Out to Arduino 6
+2016-11-20 11:33:54,767 Sent In Out to Arduino 7
+2016-11-20 11:33:54,772 Sent In Out to Arduino 8
+2016-11-20 11:33:54,777 Sent In Out to Arduino 9
+2016-11-20 11:33:54,783 Sent In Out to Arduino 10
+2016-11-20 11:33:55,789 Command 17 to 1 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:55,793 Command 17 to 2 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:55,796 Command 17 to 3 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:55,799 Command 17 to 4 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:55,814 Command 17 to 5 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:55,822 Command 17 to 6 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:55,826 Command 17 to 7 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:55,830 Command 17 to 8 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:55,835 Command 17 to 9 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:55,839 Command 17 to 10 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:56,844 got a new line with LED colors
+2016-11-20 11:33:56,847 got Set Color
+2016-11-20 11:33:56,857 Sent color to Arduino 1
+2016-11-20 11:33:56,875 Sent color to Arduino 2
+2016-11-20 11:33:56,884 Sent color to Arduino 3
+2016-11-20 11:33:56,894 Sent color to Arduino 4
+2016-11-20 11:33:56,903 Sent color to Arduino 5
+2016-11-20 11:33:56,913 Sent color to Arduino 6
+2016-11-20 11:33:56,922 Sent color to Arduino 7
+2016-11-20 11:33:56,932 Sent color to Arduino 8
+2016-11-20 11:33:56,941 Sent color to Arduino 9
+2016-11-20 11:33:56,953 Sent color to Arduino 10
+2016-11-20 11:33:56,960 Command 13 to 1 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:56,962 Command 13 to 2 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:56,967 Command 13 to 3 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:56,969 Command 13 to 4 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:56,976 Command 13 to 5 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:56,979 Command 13 to 6 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:56,984 Command 13 to 7 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:56,991 Command 13 to 8 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:56,995 Command 13 to 9 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:56,999 Command 13 to 10 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:33:58,006 got a new line with LED colors
+2016-11-20 11:33:58,012 got Random
+2016-11-20 11:33:58,019 Sent random to Arduino 1
+2016-11-20 11:33:58,026 Sent random to Arduino 2
+2016-11-20 11:33:58,029 Sent random to Arduino 3
+2016-11-20 11:33:58,035 Sent random to Arduino 4
+2016-11-20 11:33:58,040 Sent random to Arduino 5
+2016-11-20 11:33:58,047 Sent random to Arduino 6
+2016-11-20 11:33:58,051 Sent random to Arduino 7
+2016-11-20 11:33:58,057 Sent random to Arduino 8
+2016-11-20 11:33:58,063 Sent random to Arduino 9
+2016-11-20 11:33:58,068 Sent random to Arduino 10
+2016-11-20 11:34:01,076 Command 19 to 1 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:01,078 Command 19 to 2 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:01,083 Command 19 to 3 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:01,087 Command 19 to 4 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:01,099 Command 19 to 5 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:01,105 Command 19 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:01,112 Command 19 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:01,125 Command 19 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:01,135 Command 19 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:01,147 Command 19 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:02,150 got a new line with LED colors
+2016-11-20 11:34:02,155 got In-Out
+2016-11-20 11:34:02,158 ERROR In Out of Arduino 1
+2016-11-20 11:34:02,161 ERROR In Out of Arduino 2
+2016-11-20 11:34:02,164 ERROR In Out of Arduino 3
+2016-11-20 11:34:02,172 ERROR In Out of Arduino 4
+2016-11-20 11:34:02,177 ERROR In Out of Arduino 5
+2016-11-20 11:34:02,182 ERROR In Out of Arduino 6
+2016-11-20 11:34:02,187 ERROR In Out of Arduino 7
+2016-11-20 11:34:02,191 ERROR In Out of Arduino 8
+2016-11-20 11:34:02,197 ERROR In Out of Arduino 9
+2016-11-20 11:34:02,200 ERROR In Out of Arduino 10
+2016-11-20 11:34:03,207 ERROR confirmation command 17 to Arduino: 1
+2016-11-20 11:34:03,210 ERROR confirmation command 17 to Arduino: 2
+2016-11-20 11:34:03,215 ERROR confirmation command 17 to Arduino: 3
+2016-11-20 11:34:03,218 ERROR confirmation command 17 to Arduino: 4
+2016-11-20 11:34:03,225 ERROR confirmation command 17 to Arduino: 5
+2016-11-20 11:34:03,229 ERROR confirmation command 17 to Arduino: 6
+2016-11-20 11:34:03,234 ERROR confirmation command 17 to Arduino: 7
+2016-11-20 11:34:03,239 ERROR confirmation command 17 to Arduino: 8
+2016-11-20 11:34:03,243 ERROR confirmation command 17 to Arduino: 9
+2016-11-20 11:34:03,248 ERROR confirmation command 17 to Arduino: 10
+2016-11-20 11:34:04,254 got a new line with LED colors
+2016-11-20 11:34:04,256 got In-Out
+2016-11-20 11:34:04,260 ERROR In Out of Arduino 1
+2016-11-20 11:34:04,264 ERROR In Out of Arduino 2
+2016-11-20 11:34:04,266 ERROR In Out of Arduino 3
+2016-11-20 11:34:04,273 ERROR In Out of Arduino 4
+2016-11-20 11:34:04,279 ERROR In Out of Arduino 5
+2016-11-20 11:34:04,283 ERROR In Out of Arduino 6
+2016-11-20 11:34:04,288 ERROR In Out of Arduino 7
+2016-11-20 11:34:04,294 ERROR In Out of Arduino 8
+2016-11-20 11:34:04,298 ERROR In Out of Arduino 9
+2016-11-20 11:34:04,304 ERROR In Out of Arduino 10
+2016-11-20 11:34:05,310 Command 17 to 1 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:05,313 Command 17 to 2 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:05,316 Command 17 to 3 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:05,323 Command 17 to 4 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:05,333 Command 17 to 5 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:05,336 Command 17 to 6 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:05,341 Command 17 to 7 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:05,347 Command 17 to 8 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:05,351 Command 17 to 9 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:05,355 Command 17 to 10 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:06,361 got a new line with LED colors
+2016-11-20 11:34:06,364 got Set Color
+2016-11-20 11:34:06,370 Sent color to Arduino 1
+2016-11-20 11:34:06,375 Sent color to Arduino 2
+2016-11-20 11:34:06,378 Sent color to Arduino 3
+2016-11-20 11:34:06,389 Sent color to Arduino 4
+2016-11-20 11:34:06,394 Sent color to Arduino 5
+2016-11-20 11:34:06,402 Sent color to Arduino 6
+2016-11-20 11:34:06,405 Sent color to Arduino 7
+2016-11-20 11:34:06,411 Sent color to Arduino 8
+2016-11-20 11:34:06,417 Sent color to Arduino 9
+2016-11-20 11:34:06,423 Sent color to Arduino 10
+2016-11-20 11:34:06,427 Command 13 to 1 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:06,432 Command 13 to 2 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:06,437 Command 13 to 3 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:06,441 Command 13 to 4 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:06,447 Command 13 to 5 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:06,452 Command 13 to 6 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:06,458 Command 13 to 7 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:06,461 Command 13 to 8 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:06,466 Command 13 to 9 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:06,468 Command 13 to 10 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:07,473 got a new line with LED colors
+2016-11-20 11:34:07,476 got Random
+2016-11-20 11:34:07,480 Sent random to Arduino 1
+2016-11-20 11:34:07,484 Sent random to Arduino 2
+2016-11-20 11:34:07,494 Sent random to Arduino 3
+2016-11-20 11:34:07,499 Sent random to Arduino 4
+2016-11-20 11:34:07,505 Sent random to Arduino 5
+2016-11-20 11:34:07,510 Sent random to Arduino 6
+2016-11-20 11:34:07,516 Sent random to Arduino 7
+2016-11-20 11:34:07,521 Sent random to Arduino 8
+2016-11-20 11:34:07,526 Sent random to Arduino 9
+2016-11-20 11:34:07,532 Sent random to Arduino 10
+2016-11-20 11:34:10,539 Command 19 to 1 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:10,542 Command 19 to 2 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:10,545 Command 19 to 3 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:10,548 Command 19 to 4 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:10,551 Command 19 to 5 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:10,560 Command 19 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:10,565 Command 19 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:10,569 Command 19 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:10,574 Command 19 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:10,579 Command 19 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:10,584 got Pulsing
+2016-11-20 11:34:10,590 Sent pulsing to Arduino 1
+2016-11-20 11:34:10,595 Sent pulsing to Arduino 2
+2016-11-20 11:34:10,601 Sent pulsing to Arduino 3
+2016-11-20 11:34:10,606 Sent pulsing to Arduino 4
+2016-11-20 11:34:10,612 Sent pulsing to Arduino 5
+2016-11-20 11:34:10,617 Sent pulsing to Arduino 6
+2016-11-20 11:34:10,623 Sent pulsing to Arduino 7
+2016-11-20 11:34:10,633 Sent pulsing to Arduino 8
+2016-11-20 11:34:10,636 Sent pulsing to Arduino 9
+2016-11-20 11:34:10,644 Sent pulsing to Arduino 10
+2016-11-20 11:34:11,650 Command 18 to 1 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:11,662 Command 18 to 2 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:11,665 Command 18 to 3 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:11,673 Command 18 to 4 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:11,682 Command 18 to 5 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:11,685 Command 18 to 6 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:11,690 Command 18 to 7 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:11,696 Command 18 to 8 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:11,706 Command 18 to 9 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:11,712 Command 18 to 10 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:12,287 found loader.pid file
+2016-11-20 11:34:12,303 going to kill loader pid: 5022
+2016-11-20 11:34:12,310 new loader pid: 5034
+2016-11-20 11:34:12,323 Opening playlist.dat
+2016-11-20 11:34:12,332 got Reset
+2016-11-20 11:34:13,336 done Reset
+2016-11-20 11:34:15,340 got a new line with LED colors
+2016-11-20 11:34:15,347 got In-Out
+2016-11-20 11:34:15,352 Sent In Out to Arduino 1
+2016-11-20 11:34:15,356 Sent In Out to Arduino 2
+2016-11-20 11:34:15,366 Sent In Out to Arduino 3
+2016-11-20 11:34:15,370 Sent In Out to Arduino 4
+2016-11-20 11:34:15,375 Sent In Out to Arduino 5
+2016-11-20 11:34:15,381 Sent In Out to Arduino 6
+2016-11-20 11:34:15,386 Sent In Out to Arduino 7
+2016-11-20 11:34:15,392 Sent In Out to Arduino 8
+2016-11-20 11:34:15,397 Sent In Out to Arduino 9
+2016-11-20 11:34:15,402 Sent In Out to Arduino 10
+2016-11-20 11:34:16,408 Command 17 to 1 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:16,411 Command 17 to 2 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:16,414 Command 17 to 3 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:16,417 Command 17 to 4 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:16,420 Command 17 to 5 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:16,427 Command 17 to 6 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:16,432 Command 17 to 7 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:16,436 Command 17 to 8 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:16,441 Command 17 to 9 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:16,446 Command 17 to 10 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:17,452 got a new line with LED colors
+2016-11-20 11:34:17,454 got Set Color
+2016-11-20 11:34:17,458 Sent color to Arduino 1
+2016-11-20 11:34:17,462 Sent color to Arduino 2
+2016-11-20 11:34:17,471 Sent color to Arduino 3
+2016-11-20 11:34:17,477 Sent color to Arduino 4
+2016-11-20 11:34:17,485 Sent color to Arduino 5
+2016-11-20 11:34:17,490 Sent color to Arduino 6
+2016-11-20 11:34:17,496 Sent color to Arduino 7
+2016-11-20 11:34:17,500 Sent color to Arduino 8
+2016-11-20 11:34:17,506 Sent color to Arduino 9
+2016-11-20 11:34:17,511 Sent color to Arduino 10
+2016-11-20 11:34:17,516 Command 13 to 1 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:17,521 Command 13 to 2 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:17,525 Command 13 to 3 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:17,531 Command 13 to 4 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:17,534 Command 13 to 5 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:17,542 Command 13 to 6 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:17,545 Command 13 to 7 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:17,550 Command 13 to 8 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:17,554 Command 13 to 9 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:17,558 Command 13 to 10 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:18,564 got a new line with LED colors
+2016-11-20 11:34:18,566 got Random
+2016-11-20 11:34:18,570 Sent random to Arduino 1
+2016-11-20 11:34:18,576 Sent random to Arduino 2
+2016-11-20 11:34:18,589 Sent random to Arduino 3
+2016-11-20 11:34:18,596 Sent random to Arduino 4
+2016-11-20 11:34:18,601 Sent random to Arduino 5
+2016-11-20 11:34:18,607 Sent random to Arduino 6
+2016-11-20 11:34:18,613 Sent random to Arduino 7
+2016-11-20 11:34:18,617 Sent random to Arduino 8
+2016-11-20 11:34:18,622 Sent random to Arduino 9
+2016-11-20 11:34:18,628 Sent random to Arduino 10
+2016-11-20 11:34:19,715 found loader.pid file
+2016-11-20 11:34:19,719 going to kill loader pid: 5034
+2016-11-20 11:34:19,727 new loader pid: 5035
+2016-11-20 11:34:19,743 Opening playlist.dat
+2016-11-20 11:34:19,748 got Reset
+2016-11-20 11:34:20,754 done Reset
+2016-11-20 11:34:22,759 got a new line with LED colors
+2016-11-20 11:34:22,764 got In-Out
+2016-11-20 11:34:22,777 Sent In Out to Arduino 1
+2016-11-20 11:34:22,793 Sent In Out to Arduino 2
+2016-11-20 11:34:22,800 Sent In Out to Arduino 3
+2016-11-20 11:34:22,804 Sent In Out to Arduino 4
+2016-11-20 11:34:22,810 Sent In Out to Arduino 5
+2016-11-20 11:34:22,823 Sent In Out to Arduino 6
+2016-11-20 11:34:22,832 Sent In Out to Arduino 7
+2016-11-20 11:34:22,848 Sent In Out to Arduino 8
+2016-11-20 11:34:22,857 Sent In Out to Arduino 9
+2016-11-20 11:34:22,876 Sent In Out to Arduino 10
+2016-11-20 11:34:22,908 found loader.pid file
+2016-11-20 11:34:22,931 going to kill loader pid: 5035
+2016-11-20 11:34:22,940 new loader pid: 5036
+2016-11-20 11:34:22,961 Opening playlist.dat
+2016-11-20 11:34:22,969 got Reset
+2016-11-20 11:34:23,976 done Reset
+2016-11-20 11:34:25,217 found loader.pid file
+2016-11-20 11:34:25,221 going to kill loader pid: 5036
+2016-11-20 11:34:25,236 new loader pid: 5037
+2016-11-20 11:34:25,245 Opening playlist.dat
+2016-11-20 11:34:25,250 got Reset
+2016-11-20 11:34:26,256 done Reset
+2016-11-20 11:34:27,483 found loader.pid file
+2016-11-20 11:34:27,486 going to kill loader pid: 5037
+2016-11-20 11:34:27,494 new loader pid: 5038
+2016-11-20 11:34:27,512 Opening playlist.dat
+2016-11-20 11:34:27,518 got Reset
+2016-11-20 11:34:28,151 Error on GPIO reset
+2016-11-20 11:34:30,156 got a new line with LED colors
+2016-11-20 11:34:30,158 got In-Out
+2016-11-20 11:34:30,168 Sent In Out to Arduino 1
+2016-11-20 11:34:30,179 Sent In Out to Arduino 2
+2016-11-20 11:34:30,187 Sent In Out to Arduino 3
+2016-11-20 11:34:30,195 Sent In Out to Arduino 4
+2016-11-20 11:34:30,202 Sent In Out to Arduino 5
+2016-11-20 11:34:30,210 Sent In Out to Arduino 6
+2016-11-20 11:34:30,221 Sent In Out to Arduino 7
+2016-11-20 11:34:30,227 Sent In Out to Arduino 8
+2016-11-20 11:34:30,231 Sent In Out to Arduino 9
+2016-11-20 11:34:30,237 Sent In Out to Arduino 10
+2016-11-20 11:34:31,241 Command 17 to 1 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:31,247 Command 17 to 2 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:31,250 Command 17 to 3 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:31,260 Command 17 to 4 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:31,268 Command 17 to 5 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:31,277 Command 17 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:31,284 Command 17 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:31,291 Command 17 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:31,300 Command 17 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:31,308 Command 17 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:32,311 got a new line with LED colors
+2016-11-20 11:34:32,314 got Set Color
+2016-11-20 11:34:32,318 Sent color to Arduino 1
+2016-11-20 11:34:32,325 Sent color to Arduino 2
+2016-11-20 11:34:32,334 Sent color to Arduino 3
+2016-11-20 11:34:32,340 Sent color to Arduino 4
+2016-11-20 11:34:32,355 Sent color to Arduino 5
+2016-11-20 11:34:32,363 Sent color to Arduino 6
+2016-11-20 11:34:32,372 Sent color to Arduino 7
+2016-11-20 11:34:32,381 Sent color to Arduino 8
+2016-11-20 11:34:32,389 Sent color to Arduino 9
+2016-11-20 11:34:32,399 Sent color to Arduino 10
+2016-11-20 11:34:32,402 Command 13 to 1 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:32,409 Command 13 to 2 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:32,417 Command 13 to 3 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:32,423 Command 13 to 4 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:32,430 Command 13 to 5 result 1 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:32,442 Command 13 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:32,447 Command 13 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:32,454 Command 13 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:32,462 Command 13 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:34:32,467 Command 13 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:36:27,996 verifying if other loader is running
+2016-11-20 11:36:28,002 found loader.pid file
+2016-11-20 11:36:28,005 going to kill loader pid: 5038
+2016-11-20 11:36:28,008 loader pid: 5038 is not running anymore
+2016-11-20 11:36:28,017 new loader pid: 5121
+2016-11-20 11:36:28,022 Opening playlist.dat
+2016-11-20 11:36:28,028 got Reset
+2016-11-20 11:36:29,034 done Reset
+2016-11-20 11:36:31,039 got a new line with LED colors
+2016-11-20 11:36:31,041 got In-Out
+2016-11-20 11:36:31,048 Sent In Out to Arduino 1
+2016-11-20 11:36:31,052 Sent In Out to Arduino 2
+2016-11-20 11:36:31,061 Sent In Out to Arduino 3
+2016-11-20 11:36:31,067 Sent In Out to Arduino 4
+2016-11-20 11:36:31,072 Sent In Out to Arduino 5
+2016-11-20 11:36:31,078 Sent In Out to Arduino 6
+2016-11-20 11:36:31,083 Sent In Out to Arduino 7
+2016-11-20 11:36:31,088 Sent In Out to Arduino 8
+2016-11-20 11:36:31,094 Sent In Out to Arduino 9
+2016-11-20 11:36:31,100 Sent In Out to Arduino 10
+2016-11-20 11:36:31,867 verifying if other loader is running
+2016-11-20 11:36:31,871 found loader.pid file
+2016-11-20 11:36:31,874 going to kill loader pid: 5121
+2016-11-20 11:36:31,885 new loader pid: 5122
+2016-11-20 11:36:31,896 Opening playlist.dat
+2016-11-20 11:36:31,912 got Reset
+2016-11-20 11:36:32,918 done Reset
+2016-11-20 11:36:34,407 verifying if other loader is running
+2016-11-20 11:36:34,411 found loader.pid file
+2016-11-20 11:36:34,414 going to kill loader pid: 5122
+2016-11-20 11:36:34,433 new loader pid: 5123
+2016-11-20 11:36:34,439 Opening playlist.dat
+2016-11-20 11:36:34,444 got Reset
+2016-11-20 11:36:35,451 done Reset
+2016-11-20 11:36:37,456 got a new line with LED colors
+2016-11-20 11:36:37,458 got In-Out
+2016-11-20 11:36:37,462 Sent In Out to Arduino 1
+2016-11-20 11:36:37,466 Sent In Out to Arduino 2
+2016-11-20 11:36:37,475 Sent In Out to Arduino 3
+2016-11-20 11:36:37,480 Sent In Out to Arduino 4
+2016-11-20 11:36:37,486 Sent In Out to Arduino 5
+2016-11-20 11:36:37,491 Sent In Out to Arduino 6
+2016-11-20 11:36:37,497 Sent In Out to Arduino 7
+2016-11-20 11:36:37,502 Sent In Out to Arduino 8
+2016-11-20 11:36:37,507 Sent In Out to Arduino 9
+2016-11-20 11:36:37,513 Sent In Out to Arduino 10
+2016-11-20 11:37:32,575 verifying if other loader is running
+2016-11-20 11:37:32,580 new loader pid: 5142
+2016-11-20 11:37:32,583 Opening playlist.dat
+2016-11-20 11:37:32,586 got Reset
+2016-11-20 11:37:33,595 done Reset
+2016-11-20 11:37:35,600 got a new line with LED colors
+2016-11-20 11:37:35,602 got In-Out
+2016-11-20 11:37:35,613 Sent In Out to Arduino 1
+2016-11-20 11:37:35,619 Sent In Out to Arduino 2
+2016-11-20 11:37:35,635 Sent In Out to Arduino 3
+2016-11-20 11:37:35,640 Sent In Out to Arduino 4
+2016-11-20 11:37:35,646 Sent In Out to Arduino 5
+2016-11-20 11:37:35,651 Sent In Out to Arduino 6
+2016-11-20 11:37:35,664 Sent In Out to Arduino 7
+2016-11-20 11:37:35,668 Sent In Out to Arduino 8
+2016-11-20 11:37:35,684 Sent In Out to Arduino 9
+2016-11-20 11:37:35,690 Sent In Out to Arduino 10
+2016-11-20 11:37:36,141 verifying if other loader is running
+2016-11-20 11:37:36,145 found loader.pid file
+2016-11-20 11:37:36,150 going to kill loader pid: 5142
+2016-11-20 11:37:36,168 new loader pid: 5143
+2016-11-20 11:37:36,175 Opening playlist.dat
+2016-11-20 11:37:36,180 got Reset
+2016-11-20 11:37:37,188 done Reset
+2016-11-20 11:37:39,193 got a new line with LED colors
+2016-11-20 11:37:39,195 got In-Out
+2016-11-20 11:37:39,201 Sent In Out to Arduino 1
+2016-11-20 11:37:39,205 Sent In Out to Arduino 2
+2016-11-20 11:37:39,214 Sent In Out to Arduino 3
+2016-11-20 11:37:39,219 Sent In Out to Arduino 4
+2016-11-20 11:37:39,225 Sent In Out to Arduino 5
+2016-11-20 11:37:39,230 Sent In Out to Arduino 6
+2016-11-20 11:37:39,235 Sent In Out to Arduino 7
+2016-11-20 11:37:39,241 Sent In Out to Arduino 8
+2016-11-20 11:37:39,246 Sent In Out to Arduino 9
+2016-11-20 11:37:39,252 Sent In Out to Arduino 10
+2016-11-20 11:37:40,256 Command 17 to 1 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:37:40,262 Command 17 to 2 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:37:40,265 Command 17 to 3 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:37:40,274 Command 17 to 4 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:37:40,284 Command 17 to 5 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:37:40,289 Command 17 to 6 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:37:40,293 Command 17 to 7 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:37:40,304 Command 17 to 8 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:37:40,310 Command 17 to 9 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:37:40,314 Command 17 to 10 result 0 (0=ready, 1=busy, 11,12,13,14=cmd bytes rcv)
+2016-11-20 11:37:40,363 verifying if other loader is running
+2016-11-20 11:37:40,366 found loader.pid file
+2016-11-20 11:37:40,369 going to kill loader pid: 5143
+2016-11-20 11:37:40,383 new loader pid: 5144
+2016-11-20 11:37:40,389 Opening playlist.dat
+2016-11-20 11:37:40,399 got Reset
+2016-11-20 11:37:41,403 done Reset
+2016-11-20 11:37:43,409 got a new line with LED colors
+2016-11-20 11:37:43,411 got In-Out
+2016-11-20 11:37:43,418 Sent In Out to Arduino 1
+2016-11-20 11:37:43,422 Sent In Out to Arduino 2
+2016-11-20 11:37:43,429 Sent In Out to Arduino 3
+2016-11-20 11:37:43,434 Sent In Out to Arduino 4
+2016-11-20 11:37:43,443 Sent In Out to Arduino 5
+2016-11-20 11:37:43,448 Sent In Out to Arduino 6
+2016-11-20 11:37:43,453 Sent In Out to Arduino 7
+2016-11-20 11:37:43,459 Sent In Out to Arduino 8
+2016-11-20 11:37:43,465 Sent In Out to Arduino 9
+2016-11-20 11:37:43,471 Sent In Out to Arduino 10

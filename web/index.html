@@ -1,0 +1,104 @@
+<html>
+<head>
+	<title>Control</title>
+</head>
+<body>
+
+<script src="jscolor.js"></script>
+
+<!-- send form post -->
+<form action="write2file.php" method="POST">
+
+<!-- show data on client
+<form action="show_data.html">
+-->
+<table border="0" cellpadding="1" cellspacing="1" style="height:200px;width:100px;">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td><input name="color1" type="hidden" id="color_value1" value="ffffff"> <button class="jscolor {valueElement: 'color_value1'}">01</button> </td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td><input name="color2" type="hidden" id="color_value2" value="ff0000"> <button class="jscolor {valueElement: 'color_value2'}">02</button></td>
+			<td>&nbsp;</td>
+			<td><input name="color3" type="hidden" id="color_value3" value="00ff00"> <button class="jscolor {valueElement: 'color_value3'}">03</button></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><input name="color4" type="hidden" id="color_value4" value="0000ff"> <button class="jscolor {valueElement: 'color_value4'}">04</button></td>
+			<td>&nbsp;</td>
+			<td><input name="color5" type="hidden" id="color_value5" value="a800ff"> <button class="jscolor {valueElement: 'color_value5'}">05</button></td>
+			<td>&nbsp;</td>
+			<td><input name="color6" type="hidden" id="color_value6" value="f8ff00"> <button class="jscolor {valueElement: 'color_value6'}">06</button></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><input name="color7" type="hidden" id="color_value7" value="ff07ff"> <button class="jscolor {valueElement: 'color_value7'}">07</button></td>
+			<td>&nbsp;</td>
+			<td><input name="color8" type="hidden" id="color_value8" value="ff8800"> <button class="jscolor {valueElement: 'color_value8'}">08</button></td>
+			<td>&nbsp;</td>
+			<td><input name="color9" type="hidden" id="color_value9" value="ee3300"> <button class="jscolor {valueElement: 'color_value9'}">09</button></td>
+			<td>&nbsp;</td>
+			<td><input name="color10" type="hidden" id="color_value10" value="00ffcc"> <button class="jscolor {valueElement: 'color_value10'}">10</button></td>
+		</tr>
+	</tbody>
+</table>
+<table>
+	<tr>
+		<td>Entry:</td>
+		<td><input type="radio" name="entry" value="none" checked="checked">none</td>
+		<td><input type="radio" name="entry" value="roll">roll</td>
+		<td><input type="radio" name="entry" value="fadein">fade-in</td>
+		<td><input type="radio" name="entry" value="inout">in-out</td>
+		<td><input type="radio" name="entry" value="random">random</td>
+	</tr>
+		<td>Play:</td>
+		<td><input type="radio" name="play" value="none" checked="checked">none</td>
+		<td><input type="radio" name="play" value="blinking">blinking</td>
+		<td><input type="radio" name="play" value="pulsing">pulsing</td>
+	<tr>
+	</tr>
+
+</table>
+
+<input type="submit" value="Show">
+
+</form>
+</body>
+</html>
