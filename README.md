@@ -8,7 +8,7 @@ The code has 3 areas:
 
 
 Main diagram
-
+```
           raspberry pi                           arduino nano    led stripe
 +--------------------------------------------+   +----------+    +-------+
 
@@ -23,7 +23,7 @@ Main diagram
                                   +---+----+ |    +--------+      +-----+
                                   |cronjob | +--> |arduino9| +--> |ball9|
                                   +--------+      +--------+      +-----+
-
+```
 Hardware overview
 
 The led stripe are WS2812 that can be controlled by writing sequentially to its data input.
